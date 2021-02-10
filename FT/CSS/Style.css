@@ -1,0 +1,48 @@
+.img-fluid{
+   
+    position: absolute;
+    min-height: 100%;
+}
+.banner-button {
+    position: relative;
+    min-width: 10%;
+    width: 20%;
+    margin-top: 5%;
+    margin-left: 40%;
+    /*
+    min-height: 40px;
+    margin-top: 30%;
+    margin-left: 40%; 
+    background: #212529;
+    color: white;
+    font-weight: bold;
+   */
+}
+.banner-button1{
+    background: #212529;
+    color: white;
+    position: relative;
+    width: 20%;
+    margin-top: 5%;
+  /*  min-width: 10%;
+    height: 50%;
+    margin-top: 30%;
+   margin-left: 5%;
+   font-weight: bold;
+   /* margin-top: 30%;
+    margin-left: 10%; */
+}
+.header{
+   min-height:10%;
+
+}
+.navbar-brand{
+    font-weight: bold;
+    font-size: 25px;
+}
+.nav-item a{
+    font-size : 17px;
+}
+#header-button{
+    font-size : 16px;
+}
